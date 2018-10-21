@@ -2,6 +2,7 @@
 Description: Gets a string and character from user, using a for loop detects how many time the character was used in the string.
 Filename: main.cpp
 Author: Joshua Santillan
+email: santj96@gmail.com
 Date: 10/20/18
 */
 
