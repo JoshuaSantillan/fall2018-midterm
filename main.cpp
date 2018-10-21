@@ -17,7 +17,7 @@ char get_char (string prompt);
 int main()
 {
     string sentance = get_string("Enter a Sentance about anything and everything: ");
-    char c = get_char("Enter a character");
+    char c = get_char("Enter a character: ");
   
     cout << "The character you picked is: " << "\"" << c << "\"" << endl;
     cout << "That character appeared " << char_count(sentance, c) << " time(s)"; 
